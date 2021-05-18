@@ -1,0 +1,19 @@
+{
+  "name": "cypress-axe-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axe-core": "^4.2.0",
+    "cypress": "^7.3.0",
+    "cypress-axe": "^0.12.2"
+  }
+}
